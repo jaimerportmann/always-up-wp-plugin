@@ -5,7 +5,7 @@ Version: 1
 Plugin URI: 
 Description: Keep all posts always up to date
 Author: Jaime R Portmann
-Author URI: http://www.jaimerossello.com
+Author URI: https://jaimerossello.com
 */
 
 add_Action('init', 'du_init');
